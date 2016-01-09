@@ -1,0 +1,26 @@
+{
+  "name": "json-schema",
+  "version": "1.0.0",
+  "description": ":)",
+  "main": "SUMMARY.md",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yufeiminds/json-schema.git"
+  },
+  "keywords": [
+    "json"
+  ],
+  "dependencies": [
+    "gitbook-plugin-mathjax",
+    "gitbook-plugin-todo"
+  ],
+  "author": "Yufei Li",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yufeiminds/json-schema/issues"
+  },
+  "homepage": "https://yufeiminds.github.io/json-schema"
+}
